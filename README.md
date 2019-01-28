@@ -10,4 +10,4 @@ $ python3 manage.py runserver
 ```
 
 #### On Heroku
-https://dj-tutorial.herokuapp.com/
+https://dj-tutorial.herokuapp.com/index/
