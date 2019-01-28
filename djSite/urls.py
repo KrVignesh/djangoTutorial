@@ -25,5 +25,5 @@ urlpatterns = [
     
     #defining a new URL pattern
     #when we will go here our template will render
-    url(r'^index/', views.index),
+    url(r'^index/', views.index, name='index'),
 ]
